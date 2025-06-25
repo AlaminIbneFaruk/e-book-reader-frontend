@@ -13,6 +13,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # E-Book Reader Client
 
+## 🚀 Live Demo
+[https://e-book-reader.netlify.app/](https://e-book-reader.netlify.app/)
+
 A React-based e-book reader frontend.
 
 ## Getting Started on a New PC
